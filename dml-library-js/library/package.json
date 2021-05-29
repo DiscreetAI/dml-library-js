@@ -7,7 +7,7 @@
     "@tensorflow/tfjs-node": "^1.2.9",
     "node-fetch": "^2.6.0",
     "pouchdb": "^7.1.1",
-    "ws": "^6.2.1"
+    "ws": "^7.4.6"
   },
   "devDependencies": {
     "@types/ws": "^6.0.1"
